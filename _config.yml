@@ -8,3 +8,4 @@ github_username:  NBardelot
 timezone: Europe/Paris
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
+exclude: README.md
