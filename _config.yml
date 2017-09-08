@@ -1,2 +1,8 @@
-theme: slate
+theme: jekyll-theme-slate
+title: Titre de blog à trouver
+email: noel@bardelot.fr
+description: >
+  Déscription à compléter
+url: "http://blog.bardelot.fr"
+github_username:  NBardelot
 timezone: Europe/Paris
