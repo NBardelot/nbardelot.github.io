@@ -8,10 +8,10 @@ de Github Pages. Vous pouvez faire de même :
    1. En créant un projet avec le nom `username.github.io`
       où `username` est votre login Github ;
    2. En allant dans les préférences de votre nouveau projet
-      pour en faire un projet de type *Github Pages*
+      pour en faire un projet de type *Github Pages* ;
    3. En créant les fichiers nécessaires dans votre projet
       pour que le préprocesseur Jekyll transforme votre markdown
-      en HTML
+      en HTML.
       
 Et pour commencer, vous pouvez tout simplement forker mon projet :)
 
@@ -21,5 +21,9 @@ Quelques liens utiles :
      * le fichier de configuration [_config.yml](https://jekyllrb.com/docs/configuration/)
      * comment organiser l'[arborescence](https://jekyllrb.com/docs/structure/)
      * les options de [formatage des pages](https://jekyllrb.com/docs/frontmatter/)
+
+Et enfin, si vous avez un nom de domaine vous pouvez également demander à Github
+de déclarer un reverse sur le domaine ou sous-domaine de votre
+choix en allant dans les propriété de votre projet *Github Pages*.
  
- Bon courage !
+Bon courage !
