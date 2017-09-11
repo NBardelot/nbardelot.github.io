@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: Titre de blog à trouver
+title: DevOps au quotidien
 email: noel@bardelot.fr
 description: >
-  Déscription à compléter
+  Un journal de bord DevOps, avec des réflexions sur l'automatisation, l'humain, et les outils informatiques.
 url: "http://blog.bardelot.fr"
 github_username:  NBardelot
 timezone: Europe/Paris
